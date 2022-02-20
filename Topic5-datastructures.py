@@ -21,6 +21,6 @@ print("the queue is now empty")
 
 # A program that reads in a students name, modules and grades until the user enters a blank name.
 student = {"name": "Mary", "modules": [{"coursename"}]}
-x = input(student["modules"]["coursename"]
+x = input(student["modules"]["coursename"])
 
     
